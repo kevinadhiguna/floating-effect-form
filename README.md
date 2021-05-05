@@ -5,3 +5,5 @@ Floating Effect Form is a login form with placeholders with floating effect on e
 ## Demo
 Like Google Sign in form, the input label will float. Here is how this app looks : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/floating-effect-form/master/demo/1.png" width="90%"></img>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/floating-effect-form)](https://github.com/kevinadhiguna)
